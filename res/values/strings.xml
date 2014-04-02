@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Are You?</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">HOME</string>
+    <string name="title_section2">CONTACTS</string>
+    <string name="title_section3">MAP</string>
+    <string name="request_txt">Invite someone to share their location:</string>
+    <string name="recipient_txt">Recipient(s):</string>
+    <string name="share_txt">Share your location also?</string>
+    <string name="share_sw">Share:</string>
+    <string name="message_txt">Text Message to send</string>
+    <string name="messagePrompt_txt">Message:</string>
+    <string name="destination_txt">Where are they going?</string>
+    <string name="destinationPrompt_txt">Destination:</string>
+    <string name="home_to_map_btn">Submit</string>
+    
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="map_action_bar_txt">Map</string>
+    
+    <string name="latitude_longitude">Lat n Lon</string>
+    
+    
+
+</resources>
