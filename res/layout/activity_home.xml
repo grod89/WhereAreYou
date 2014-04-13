@@ -101,16 +101,6 @@
             android:text="@string/request_txt"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignRight="@+id/textView1"
-            android:layout_below="@+id/switch1"
-            android:layout_marginTop="50dp"
-            android:text="@string/message_txt"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
-
         <EditText
             android:id="@+id/editText3"
             android:layout_width="wrap_content"
@@ -140,6 +130,16 @@
             android:layout_marginTop="25dp"
             android:text="@string/destinationPrompt_txt"
             android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView4"
+            android:layout_below="@+id/switch1"
+            android:layout_marginTop="51dp"
+            android:text="@string/message_txt"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
 
     </RelativeLayout>
 

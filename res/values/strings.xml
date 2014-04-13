@@ -7,7 +7,7 @@
     <string name="title_section2">CONTACTS</string>
     <string name="title_section3">MAP</string>
     <string name="request_txt">Invite someone to share their location:</string>
-    <string name="recipient_txt">Recipient(s):</string>
+    <string name="recipient_txt">Recipient(s) phone number:</string>
     <string name="share_txt">Share your location also?</string>
     <string name="share_sw">Share:</string>
     <string name="message_txt">Text Message to send</string>
